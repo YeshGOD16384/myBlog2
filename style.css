@@ -1,0 +1,31 @@
+body{
+    text-align: center;
+    background-color: mediumaquamarine;
+}
+button{
+   background-color: snow;
+   border-style: dashed;
+   font-family: fantasy;
+   border-top-color: red;
+   border-bottom-color: green;
+   border-left-color: blue;
+   border-right-color: yellow;
+   border-radius: 100px;
+   }
+.icon-bar{
+    color: hotpink;
+}
+iframe{
+    border-bottom-left-radius: 0px;
+    border-bottom-right-radius: 0px;
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
+    border-bottom-style: none;
+    border-top-style: outset;
+}
+#principalnm #principalnm2{
+    color: ivory;
+}
+a{
+    border-style: groove;
+}
